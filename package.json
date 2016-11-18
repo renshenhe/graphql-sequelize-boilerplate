@@ -1,0 +1,16 @@
+{
+  "name": "graphql-sequelize-boilerplate",
+  "version": "0.0.1",
+  "description": "boilerplate for setting up graphql and sequelize server",
+  "main": "index.js",
+  "author": "Ren He",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cors": "^2.8.1",
+    "express": "^4.14.0",
+    "express-graphql": "^0.6.1",
+    "graphql": "^0.8.2",
+    "sequelize": "^3.27.0"
+  }
+}
